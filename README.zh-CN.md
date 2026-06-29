@@ -5,6 +5,9 @@
 
 帮求职者把"会回答某道行为面试题"升级成"拥有一套可复用的职业故事库"。
 
+![流程 E 报告 — JD 驱动的 Top 20 选题 + STAR 模板](assets/preview.png)
+<sub>流程 E 产出:对着 JD 反推的 Top 20 选题,带 STAR 模板和可改写的范例答案。<i>(Demo 用虚构候选人,无真实个人数据。)</i></sub>
+
 ## 核心循环
 挖掘 (Mine) → 结构化 (Structure) → 打标 (Map) → 沉淀 (Save) → 复用 (Reuse)
 

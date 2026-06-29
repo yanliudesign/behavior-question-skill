@@ -4,6 +4,9 @@
 
 A Claude / Copilot skill that turns *"I can answer this one behavioral question"* into *"I own a reusable bank of career stories."* It mines your real experiences, structures them with STAR/CAR, maps them to competencies, and builds a bilingual (EN/中文) story bank you can reuse across any behavioral interview.
 
+![Flow E report — JD-driven Top 20 interview-question prep with STAR templates](assets/preview.png)
+<sub>Flow E output: a Top 20 question set reverse-engineered from a JD, with STAR templates and editable model answers. <i>(Demo uses a fictional candidate — no real personal data.)</i></sub>
+
 ## Core loop
 Mine → Structure → Map → Save → Reuse
 
