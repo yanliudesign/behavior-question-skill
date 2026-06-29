@@ -1,6 +1,6 @@
-**English · [中文](./README.zh-CN.md)**
-
 # BQ Skill — Career Story OS
+
+> 🌐 **English** · [中文](./README.zh.md)
 
 A Claude / Copilot skill that turns *"I can answer this one behavioral question"* into *"I own a reusable bank of career stories."* It mines your real experiences, structures them with STAR/CAR, maps them to competencies, and builds a bilingual (EN/中文) story bank you can reuse across any behavioral interview.
 

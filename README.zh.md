@@ -1,7 +1,6 @@
-<!-- Language: [English](./README.md) · **中文** -->
-**[English](./README.md) · 中文**
-
 # BQ Skill — Career Story OS
+
+> 🌐 **中文** · [English](./README.md)
 
 帮求职者把"会回答某道行为面试题"升级成"拥有一套可复用的职业故事库"。
 
