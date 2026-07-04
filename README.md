@@ -22,7 +22,7 @@
 
 > 📦 Part of the **[offer-toolkit-skill](https://github.com/yanliudesign/offer-toolkit-skill)** — the full job-hunt bundle (JD · Resume · BQ). Install the bundle to get all three in one shot.
 
-A Claude skill for behavioral interview prep. Instead of handing you canned answers, it helps you dig your real past experiences out and organize them into a story bank you can reuse. It asks about your experience step by step, uses STAR/CAR to shape each story, tags them ("took ownership", "handled ambiguity", etc.), and saves each one in English and Chinese — so next time you get a different behavioral question, the same story still works.
+An agent skill for behavioral interview prep. Instead of handing you canned answers, it helps you dig your real past experiences out and organize them into a story bank you can reuse. It asks about your experience step by step, uses STAR/CAR to shape each story, tags them ("took ownership", "handled ambiguity", etc.), and saves each one in English and Chinese — so next time you get a different behavioral question, the same story still works.
 
 ![JD-driven prep report — Top 20 interview-question prep with STAR templates](assets/preview.png)
 <sub>JD-driven prep output: a Top 20 question set reverse-engineered from a JD, with STAR templates and editable model answers. <i>(Demo uses a fictional candidate — no real personal data.)</i></sub>
