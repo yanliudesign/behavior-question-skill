@@ -48,7 +48,7 @@ Must Have + Hidden Signals，针对某个具体岗位反推 **Top 20 BQ 选题**
 
 ## License
 
-MIT — fork it, remix it, ship your own version.
+MIT 协议 — 随便 fork、改造、发一个你自己的版本。
 
 Created by [Dreameryanyan](https://www.linkedin.com/in/yanliudesign/) ·
 [LinkedIn](https://www.linkedin.com/in/yanliudesign/) ·
